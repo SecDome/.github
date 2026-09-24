@@ -18,7 +18,6 @@ SecDome is a security research laboratory and engineering matrix operating at th
 
 - 🌐 **Website**: [sec-dome.com](https://sec-dome.com)
 - 📧 **Security Disclosure**: [security@sec-dome.com](mailto:security@sec-dome.com)
-- 🔑 **Master PGP Fingerprint**: `4F82 91A0 C53E E881 29B4 701D 0C2B 8F5A E940 33D7`
 
 ---
 
